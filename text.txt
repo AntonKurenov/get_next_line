@@ -1,0 +1,59 @@
+The absolute address addressing mode can only be used with static variables,
+because those are the only kinds of variables whose location is known by the 
+compiler at compile time. When the program (executable or library) is loaded 
+into memory, static variables are storedm-em-M-E
+hello world
+I'm in school21, my dream come true!!
+Hey there! It's just a text file, nothing special ;)
+Hello! My name is Anton.
+I'm 22 years old, right now I'm learning C programming language.
+If u want talk to me ....
+jdsfjj
+sdf
+sd
+fsd
+f
+sd
+fs
+df
+sd
+f
+sdf
+s
+df
+sdf
+s
+df
+sd
+fs
+df
+sd
+f
+sdf
+s
+df
+sd
+f
+sdf
+sd
+f
+sdf
+sdf
+s
+df
+sdf
+s
+df
+sd
+f
+sdf
+s
+df
+sd
+fs
+df
+sdf
+s
+df
+sdf
+

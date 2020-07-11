@@ -1,0 +1,16 @@
+[
+ {
+  "directory": "/home/anton/projects/get_next_line",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-o",
+   "get_next_line.h",
+   "get_next_line.c",
+   "get_next_line_utils.c"
+  ],
+  "file": "get_next_line_utils.c"
+ }
+]
